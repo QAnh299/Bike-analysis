@@ -1,7 +1,7 @@
 # 🚲 Bike Analysis
 
 ## 📖 Giới thiệu
-Đồ án môn học **Kho dữ liệu và Kinh doanh thông minh**.
+Môn học **Kho dữ liệu và Kinh doanh thông minh**.
 
 ### 📌 Đề tài
 **Xây dựng kho dữ liệu hỗ trợ báo cáo tình hình bán hàng của Evans Cycles**
