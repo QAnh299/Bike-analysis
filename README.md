@@ -40,7 +40,7 @@ Dự án tập trung vào việc:
 - Xây dựng quy trình ETL
 - Làm sạch và biến đổi dữ liệu
 - Xây dựng dashboard phân tích bán hàng
-- Báo cáo doanh thu, khách hàng và sản phẩm
+- Báo cáo doanh thu bán hàng, khách hàng và sản phẩm
 
 ---
 
